@@ -18,4 +18,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/egor4ik2195)
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egor4ik21&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egor4ik21&layout=compact)
