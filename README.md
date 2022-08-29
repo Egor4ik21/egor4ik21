@@ -2,7 +2,8 @@
 
 ## I'm a beginner Software Engeneer
 
-My progress
+## My progress
+[![Hexlet](https://img.shields.io/badge/-HEXLET-090909?style=for-the-badge&logo=hexlet)](https://ru.hexlet.io/u/egor4ik21)
 
 ### Language and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
