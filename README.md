@@ -10,6 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&LogoColor=FF8F26)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
 ### Social network
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/egor4ik21_3)
