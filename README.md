@@ -7,7 +7,7 @@
 
 ### Language and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&LogoColor=FF8F26)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
